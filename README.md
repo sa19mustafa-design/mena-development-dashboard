@@ -49,23 +49,20 @@ Following the Google Data Analytics framework: **Ask → Prepare → Process →
 ## Repository structure
 
 ```
-├── build_mena_dataset.py   # data pipeline (Python / pandas)
+├── build_mena_dataset.py          # data pipeline (Python / pandas)
 ├── requirements.txt
-├── inputs/                 # UNDP + OWID source files (download separately, see below)
-├── data/
-│   ├── mena_long.csv       # tidy long format, 17,550 rows
-│   ├── mena_wide.csv       # one row per country-year, 756 × 33
-│   └── coverage_report.csv # first/last year and data count per indicator
-└── report/
-    └── MENA_Dashboard_Case_Study.pdf
+├── mena_long.csv                  # tidy long format, 17,550 rows
+├── mena_wide.csv                  # one row per country-year, 756 × 33
+├── coverage_report.csv            # first/last year and data count per indicator
+└── MENA_Dashboard_Case_Study.pdf  # full 21-page report
 ```
 
 ## Reproduce
 
 ```bash
 pip install -r requirements.txt
-# Put the UNDP HDR composite-indices CSV and the OWID CSVs
-# (electoral-democracy-index, political-rights-score-fh, civil-liberties-score-fh) in inputs/
+# Optional: create an inputs/ folder with the UNDP HDR composite-indices CSV and the OWID CSVs
+# (electoral-democracy-index, political-rights-score-fh, civil-liberties-score-fh)
 python build_mena_dataset.py
 # Outputs are written to output/
 ```
