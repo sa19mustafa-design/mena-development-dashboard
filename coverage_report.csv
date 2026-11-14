@@ -1,0 +1,593 @@
+dimension,indicator,country,first_year,last_year,years_of_data
+Economic,GDP (current US$),Algeria,1990,2025,36
+Economic,GDP (current US$),Bahrain,1990,2025,36
+Economic,GDP (current US$),Djibouti,1990,2025,36
+Economic,GDP (current US$),"Egypt, Arab Rep.",1990,2025,36
+Economic,GDP (current US$),"Iran, Islamic Rep.",1990,2025,36
+Economic,GDP (current US$),Iraq,1990,2025,36
+Economic,GDP (current US$),Israel,1990,2025,36
+Economic,GDP (current US$),Jordan,1990,2025,36
+Economic,GDP (current US$),Kuwait,1990,2025,36
+Economic,GDP (current US$),Lebanon,1990,2024,35
+Economic,GDP (current US$),Libya,1990,2025,36
+Economic,GDP (current US$),Morocco,1990,2025,36
+Economic,GDP (current US$),Oman,1990,2025,36
+Economic,GDP (current US$),Qatar,1990,2025,36
+Economic,GDP (current US$),Saudi Arabia,1990,2025,36
+Economic,GDP (current US$),Syrian Arab Republic,1990,2022,33
+Economic,GDP (current US$),Tunisia,1990,2025,36
+Economic,GDP (current US$),Turkiye,1990,2025,36
+Economic,GDP (current US$),United Arab Emirates,1990,2024,35
+Economic,GDP (current US$),West Bank and Gaza,1994,2025,32
+Economic,GDP (current US$),"Yemen, Rep.",1990,2018,29
+Economic,GDP growth (annual %),Algeria,1990,2025,36
+Economic,GDP growth (annual %),Bahrain,1990,2025,36
+Economic,GDP growth (annual %),Djibouti,2014,2025,12
+Economic,GDP growth (annual %),"Egypt, Arab Rep.",1990,2025,36
+Economic,GDP growth (annual %),"Iran, Islamic Rep.",1990,2025,36
+Economic,GDP growth (annual %),Iraq,1990,2025,36
+Economic,GDP growth (annual %),Israel,1990,2025,36
+Economic,GDP growth (annual %),Jordan,1990,2025,36
+Economic,GDP growth (annual %),Kuwait,1990,2025,36
+Economic,GDP growth (annual %),Lebanon,1990,2024,35
+Economic,GDP growth (annual %),Libya,1990,2025,36
+Economic,GDP growth (annual %),Morocco,1990,2025,36
+Economic,GDP growth (annual %),Oman,1990,2025,36
+Economic,GDP growth (annual %),Qatar,1990,2025,36
+Economic,GDP growth (annual %),Saudi Arabia,1990,2025,36
+Economic,GDP growth (annual %),Syrian Arab Republic,1990,2022,33
+Economic,GDP growth (annual %),Tunisia,1990,2025,36
+Economic,GDP growth (annual %),Turkiye,1990,2025,36
+Economic,GDP growth (annual %),United Arab Emirates,1990,2024,35
+Economic,GDP growth (annual %),West Bank and Gaza,1995,2025,31
+Economic,GDP growth (annual %),"Yemen, Rep.",1991,2018,28
+Economic,GDP per capita (current US$),Algeria,1990,2025,36
+Economic,GDP per capita (current US$),Bahrain,1990,2025,36
+Economic,GDP per capita (current US$),Djibouti,1990,2025,36
+Economic,GDP per capita (current US$),"Egypt, Arab Rep.",1990,2025,36
+Economic,GDP per capita (current US$),"Iran, Islamic Rep.",1990,2025,36
+Economic,GDP per capita (current US$),Iraq,1990,2025,36
+Economic,GDP per capita (current US$),Israel,1990,2025,36
+Economic,GDP per capita (current US$),Jordan,1990,2025,36
+Economic,GDP per capita (current US$),Kuwait,1990,2025,36
+Economic,GDP per capita (current US$),Lebanon,1990,2024,35
+Economic,GDP per capita (current US$),Libya,1990,2025,36
+Economic,GDP per capita (current US$),Morocco,1990,2025,36
+Economic,GDP per capita (current US$),Oman,1990,2025,36
+Economic,GDP per capita (current US$),Qatar,1990,2025,36
+Economic,GDP per capita (current US$),Saudi Arabia,1990,2025,36
+Economic,GDP per capita (current US$),Syrian Arab Republic,1990,2022,33
+Economic,GDP per capita (current US$),Tunisia,1990,2025,36
+Economic,GDP per capita (current US$),Turkiye,1990,2025,36
+Economic,GDP per capita (current US$),United Arab Emirates,1990,2024,35
+Economic,GDP per capita (current US$),West Bank and Gaza,1994,2025,32
+Economic,GDP per capita (current US$),"Yemen, Rep.",1990,2018,29
+Economic,"GDP per capita, PPP (current international $)",Algeria,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Bahrain,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Djibouti,2013,2025,13
+Economic,"GDP per capita, PPP (current international $)","Egypt, Arab Rep.",1990,2025,36
+Economic,"GDP per capita, PPP (current international $)","Iran, Islamic Rep.",1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Iraq,1995,2025,31
+Economic,"GDP per capita, PPP (current international $)",Israel,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Jordan,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Kuwait,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Lebanon,1990,2024,35
+Economic,"GDP per capita, PPP (current international $)",Libya,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Morocco,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Oman,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Qatar,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Saudi Arabia,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Syrian Arab Republic,2017,2022,6
+Economic,"GDP per capita, PPP (current international $)",Tunisia,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",Turkiye,1990,2025,36
+Economic,"GDP per capita, PPP (current international $)",United Arab Emirates,1990,2024,35
+Economic,"GDP per capita, PPP (current international $)",West Bank and Gaza,1994,2025,32
+Economic,"GDP per capita, PPP (current international $)","Yemen, Rep.",1990,2013,24
+Economic,"Inflation, consumer prices (annual %)",Algeria,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Bahrain,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Djibouti,2001,2025,25
+Economic,"Inflation, consumer prices (annual %)","Egypt, Arab Rep.",1990,2025,36
+Economic,"Inflation, consumer prices (annual %)","Iran, Islamic Rep.",1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Iraq,1991,2025,35
+Economic,"Inflation, consumer prices (annual %)",Israel,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Jordan,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Kuwait,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Lebanon,2009,2025,17
+Economic,"Inflation, consumer prices (annual %)",Libya,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Morocco,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Oman,2001,2025,25
+Economic,"Inflation, consumer prices (annual %)",Qatar,1990,2024,35
+Economic,"Inflation, consumer prices (annual %)",Saudi Arabia,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Syrian Arab Republic,1990,2019,30
+Economic,"Inflation, consumer prices (annual %)",Tunisia,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",Turkiye,1990,2025,36
+Economic,"Inflation, consumer prices (annual %)",United Arab Emirates,2008,2025,18
+Economic,"Inflation, consumer prices (annual %)",West Bank and Gaza,1997,2025,29
+Economic,"Inflation, consumer prices (annual %)","Yemen, Rep.",1991,2014,24
+Economic,"Population, total",Algeria,1990,2025,36
+Economic,"Population, total",Bahrain,1990,2025,36
+Economic,"Population, total",Djibouti,1990,2025,36
+Economic,"Population, total","Egypt, Arab Rep.",1990,2025,36
+Economic,"Population, total","Iran, Islamic Rep.",1990,2025,36
+Economic,"Population, total",Iraq,1990,2025,36
+Economic,"Population, total",Israel,1990,2025,36
+Economic,"Population, total",Jordan,1990,2025,36
+Economic,"Population, total",Kuwait,1990,2025,36
+Economic,"Population, total",Lebanon,1990,2025,36
+Economic,"Population, total",Libya,1990,2025,36
+Economic,"Population, total",Morocco,1990,2025,36
+Economic,"Population, total",Oman,1990,2025,36
+Economic,"Population, total",Qatar,1990,2025,36
+Economic,"Population, total",Saudi Arabia,1990,2025,36
+Economic,"Population, total",Syrian Arab Republic,1990,2025,36
+Economic,"Population, total",Tunisia,1990,2025,36
+Economic,"Population, total",Turkiye,1990,2025,36
+Economic,"Population, total",United Arab Emirates,1990,2025,36
+Economic,"Population, total",West Bank and Gaza,1990,2025,36
+Economic,"Population, total","Yemen, Rep.",1990,2025,36
+Economic,"Unemployment (% of labor force, ILO est.)",Algeria,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Bahrain,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Djibouti,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)","Egypt, Arab Rep.",1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)","Iran, Islamic Rep.",1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Iraq,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Israel,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Jordan,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Kuwait,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Lebanon,1991,2023,33
+Economic,"Unemployment (% of labor force, ILO est.)",Libya,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Morocco,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Oman,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Qatar,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Saudi Arabia,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Syrian Arab Republic,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Tunisia,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",Turkiye,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",United Arab Emirates,1991,2025,35
+Economic,"Unemployment (% of labor force, ILO est.)",West Bank and Gaza,1991,2022,32
+Economic,"Unemployment (% of labor force, ILO est.)","Yemen, Rep.",1991,2025,35
+Human,Expected years of schooling,Algeria,1990,2023,34
+Human,Expected years of schooling,Bahrain,1990,2023,34
+Human,Expected years of schooling,Djibouti,1990,2023,34
+Human,Expected years of schooling,"Egypt, Arab Rep.",1990,2023,34
+Human,Expected years of schooling,"Iran, Islamic Rep.",1990,2023,34
+Human,Expected years of schooling,Iraq,1990,2023,34
+Human,Expected years of schooling,Israel,1990,2023,34
+Human,Expected years of schooling,Jordan,1990,2023,34
+Human,Expected years of schooling,Kuwait,1990,2023,34
+Human,Expected years of schooling,Lebanon,1990,2023,34
+Human,Expected years of schooling,Libya,1990,2023,34
+Human,Expected years of schooling,Morocco,1990,2023,34
+Human,Expected years of schooling,Oman,1990,2023,34
+Human,Expected years of schooling,Qatar,1990,2023,34
+Human,Expected years of schooling,Saudi Arabia,1990,2023,34
+Human,Expected years of schooling,Syrian Arab Republic,1990,2023,34
+Human,Expected years of schooling,Tunisia,1990,2023,34
+Human,Expected years of schooling,Turkiye,1990,2023,34
+Human,Expected years of schooling,United Arab Emirates,1990,2023,34
+Human,Expected years of schooling,West Bank and Gaza,1990,2023,34
+Human,Expected years of schooling,"Yemen, Rep.",1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Algeria,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Bahrain,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Djibouti,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)","Egypt, Arab Rep.",1990,2023,34
+Human,"GNI per capita, PPP (2021 $)","Iran, Islamic Rep.",1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Iraq,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Israel,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Jordan,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Kuwait,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Lebanon,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Libya,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Morocco,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Oman,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Qatar,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Saudi Arabia,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Syrian Arab Republic,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Tunisia,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",Turkiye,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",United Arab Emirates,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)",West Bank and Gaza,1990,2023,34
+Human,"GNI per capita, PPP (2021 $)","Yemen, Rep.",1990,2023,34
+Human,Human Development Index (HDI),Algeria,1990,2023,34
+Human,Human Development Index (HDI),Bahrain,1990,2023,34
+Human,Human Development Index (HDI),Djibouti,1995,2023,29
+Human,Human Development Index (HDI),"Egypt, Arab Rep.",1990,2023,34
+Human,Human Development Index (HDI),"Iran, Islamic Rep.",1990,2023,34
+Human,Human Development Index (HDI),Iraq,1990,2023,34
+Human,Human Development Index (HDI),Israel,1990,2023,34
+Human,Human Development Index (HDI),Jordan,1990,2023,34
+Human,Human Development Index (HDI),Kuwait,1990,2023,34
+Human,Human Development Index (HDI),Lebanon,2005,2023,19
+Human,Human Development Index (HDI),Libya,1990,2023,34
+Human,Human Development Index (HDI),Morocco,1990,2023,34
+Human,Human Development Index (HDI),Oman,2000,2023,24
+Human,Human Development Index (HDI),Qatar,1990,2023,34
+Human,Human Development Index (HDI),Saudi Arabia,1990,2023,34
+Human,Human Development Index (HDI),Syrian Arab Republic,1990,2023,34
+Human,Human Development Index (HDI),Tunisia,1990,2023,34
+Human,Human Development Index (HDI),Turkiye,1990,2023,34
+Human,Human Development Index (HDI),United Arab Emirates,1990,2023,34
+Human,Human Development Index (HDI),West Bank and Gaza,2004,2023,20
+Human,Human Development Index (HDI),"Yemen, Rep.",1990,2023,34
+Human,Life expectancy at birth (years),Algeria,1990,2024,35
+Human,Life expectancy at birth (years),Bahrain,1990,2024,35
+Human,Life expectancy at birth (years),Djibouti,1990,2024,35
+Human,Life expectancy at birth (years),"Egypt, Arab Rep.",1990,2024,35
+Human,Life expectancy at birth (years),"Iran, Islamic Rep.",1990,2024,35
+Human,Life expectancy at birth (years),Iraq,1990,2024,35
+Human,Life expectancy at birth (years),Israel,1990,2024,35
+Human,Life expectancy at birth (years),Jordan,1990,2024,35
+Human,Life expectancy at birth (years),Kuwait,1990,2024,35
+Human,Life expectancy at birth (years),Lebanon,1990,2024,35
+Human,Life expectancy at birth (years),Libya,1990,2024,35
+Human,Life expectancy at birth (years),Morocco,1990,2024,35
+Human,Life expectancy at birth (years),Oman,1990,2024,35
+Human,Life expectancy at birth (years),Qatar,1990,2024,35
+Human,Life expectancy at birth (years),Saudi Arabia,1990,2024,35
+Human,Life expectancy at birth (years),Syrian Arab Republic,1990,2024,35
+Human,Life expectancy at birth (years),Tunisia,1990,2024,35
+Human,Life expectancy at birth (years),Turkiye,1990,2024,35
+Human,Life expectancy at birth (years),United Arab Emirates,1990,2024,35
+Human,Life expectancy at birth (years),West Bank and Gaza,1990,2024,35
+Human,Life expectancy at birth (years),"Yemen, Rep.",1990,2024,35
+Human,Mean years of schooling,Algeria,1990,2023,34
+Human,Mean years of schooling,Bahrain,1990,2023,34
+Human,Mean years of schooling,Djibouti,1995,2023,29
+Human,Mean years of schooling,"Egypt, Arab Rep.",1990,2023,34
+Human,Mean years of schooling,"Iran, Islamic Rep.",1990,2023,34
+Human,Mean years of schooling,Iraq,1990,2023,34
+Human,Mean years of schooling,Israel,1990,2023,34
+Human,Mean years of schooling,Jordan,1990,2023,34
+Human,Mean years of schooling,Kuwait,1990,2023,34
+Human,Mean years of schooling,Lebanon,2005,2023,19
+Human,Mean years of schooling,Libya,1990,2023,34
+Human,Mean years of schooling,Morocco,1990,2023,34
+Human,Mean years of schooling,Oman,2000,2023,24
+Human,Mean years of schooling,Qatar,1990,2023,34
+Human,Mean years of schooling,Saudi Arabia,1990,2023,34
+Human,Mean years of schooling,Syrian Arab Republic,1990,2023,34
+Human,Mean years of schooling,Tunisia,1990,2023,34
+Human,Mean years of schooling,Turkiye,1990,2023,34
+Human,Mean years of schooling,United Arab Emirates,1990,2023,34
+Human,Mean years of schooling,West Bank and Gaza,2004,2023,20
+Human,Mean years of schooling,"Yemen, Rep.",1990,2023,34
+Human,"School enrollment, secondary (% gross)",Algeria,1990,2024,24
+Human,"School enrollment, secondary (% gross)",Bahrain,1990,2024,32
+Human,"School enrollment, secondary (% gross)","Egypt, Arab Rep.",1990,2024,28
+Human,"School enrollment, secondary (% gross)","Iran, Islamic Rep.",1990,2023,29
+Human,"School enrollment, secondary (% gross)",Iraq,1993,2007,8
+Human,"School enrollment, secondary (% gross)",Israel,2001,2024,24
+Human,"School enrollment, secondary (% gross)",Jordan,1990,2024,28
+Human,"School enrollment, secondary (% gross)",Kuwait,1990,2015,24
+Human,"School enrollment, secondary (% gross)",Lebanon,1992,2024,32
+Human,"School enrollment, secondary (% gross)",Libya,2002,2006,4
+Human,"School enrollment, secondary (% gross)",Morocco,1990,2024,31
+Human,"School enrollment, secondary (% gross)",Oman,1990,2024,31
+Human,"School enrollment, secondary (% gross)",Qatar,1990,2024,33
+Human,"School enrollment, secondary (% gross)",Saudi Arabia,2005,2024,14
+Human,"School enrollment, secondary (% gross)",Syrian Arab Republic,1990,2024,29
+Human,"School enrollment, secondary (% gross)",Tunisia,1990,2016,26
+Human,"School enrollment, secondary (% gross)",Turkiye,1990,2023,32
+Human,"School enrollment, secondary (% gross)",United Arab Emirates,1990,2024,15
+Human,"School enrollment, secondary (% gross)",West Bank and Gaza,1995,2023,28
+Human,"School enrollment, secondary (% gross)","Yemen, Rep.",1999,2016,11
+Human,UNDP life expectancy (years),Algeria,1990,2023,34
+Human,UNDP life expectancy (years),Bahrain,1990,2023,34
+Human,UNDP life expectancy (years),Djibouti,1990,2023,34
+Human,UNDP life expectancy (years),"Egypt, Arab Rep.",1990,2023,34
+Human,UNDP life expectancy (years),"Iran, Islamic Rep.",1990,2023,34
+Human,UNDP life expectancy (years),Iraq,1990,2023,34
+Human,UNDP life expectancy (years),Israel,1990,2023,34
+Human,UNDP life expectancy (years),Jordan,1990,2023,34
+Human,UNDP life expectancy (years),Kuwait,1990,2023,34
+Human,UNDP life expectancy (years),Lebanon,1990,2023,34
+Human,UNDP life expectancy (years),Libya,1990,2023,34
+Human,UNDP life expectancy (years),Morocco,1990,2023,34
+Human,UNDP life expectancy (years),Oman,1990,2023,34
+Human,UNDP life expectancy (years),Qatar,1990,2023,34
+Human,UNDP life expectancy (years),Saudi Arabia,1990,2023,34
+Human,UNDP life expectancy (years),Syrian Arab Republic,1990,2023,34
+Human,UNDP life expectancy (years),Tunisia,1990,2023,34
+Human,UNDP life expectancy (years),Turkiye,1990,2023,34
+Human,UNDP life expectancy (years),United Arab Emirates,1990,2023,34
+Human,UNDP life expectancy (years),West Bank and Gaza,1990,2023,34
+Human,UNDP life expectancy (years),"Yemen, Rep.",1990,2023,34
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Algeria,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Bahrain,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Djibouti,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)","Egypt, Arab Rep.",1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)","Iran, Islamic Rep.",1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Iraq,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Israel,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Jordan,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Kuwait,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Lebanon,1990,2023,34
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Libya,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Morocco,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Oman,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Qatar,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Saudi Arabia,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Syrian Arab Republic,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Tunisia,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",Turkiye,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",United Arab Emirates,1990,2025,36
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)",West Bank and Gaza,1990,2022,33
+Inequality & Gender,"Female labor force participation (% ages 15+, ILO est.)","Yemen, Rep.",1990,2025,36
+Inequality & Gender,Gender Inequality Index (GII),Algeria,1995,2023,29
+Inequality & Gender,Gender Inequality Index (GII),Bahrain,2003,2023,21
+Inequality & Gender,Gender Inequality Index (GII),Djibouti,2017,2023,7
+Inequality & Gender,Gender Inequality Index (GII),"Egypt, Arab Rep.",1990,2023,34
+Inequality & Gender,Gender Inequality Index (GII),"Iran, Islamic Rep.",1990,2023,34
+Inequality & Gender,Gender Inequality Index (GII),Iraq,1995,2023,29
+Inequality & Gender,Gender Inequality Index (GII),Israel,1990,2023,34
+Inequality & Gender,Gender Inequality Index (GII),Jordan,2000,2023,24
+Inequality & Gender,Gender Inequality Index (GII),Kuwait,1995,2023,29
+Inequality & Gender,Gender Inequality Index (GII),Lebanon,2007,2023,17
+Inequality & Gender,Gender Inequality Index (GII),Libya,2010,2023,14
+Inequality & Gender,Gender Inequality Index (GII),Morocco,1990,2023,34
+Inequality & Gender,Gender Inequality Index (GII),Oman,2004,2023,20
+Inequality & Gender,Gender Inequality Index (GII),Qatar,2006,2023,18
+Inequality & Gender,Gender Inequality Index (GII),Saudi Arabia,2003,2023,21
+Inequality & Gender,Gender Inequality Index (GII),Syrian Arab Republic,1990,2023,34
+Inequality & Gender,Gender Inequality Index (GII),Tunisia,1994,2023,30
+Inequality & Gender,Gender Inequality Index (GII),Turkiye,1990,2023,34
+Inequality & Gender,Gender Inequality Index (GII),United Arab Emirates,1995,2023,29
+Inequality & Gender,Gender Inequality Index (GII),"Yemen, Rep.",2014,2023,10
+Inequality & Gender,Gini index,Algeria,1995,2011,2
+Inequality & Gender,Gini index,Djibouti,2002,2017,4
+Inequality & Gender,Gini index,"Egypt, Arab Rep.",1990,2021,11
+Inequality & Gender,Gini index,"Iran, Islamic Rep.",1990,2023,19
+Inequality & Gender,Gini index,Iraq,2006,2023,3
+Inequality & Gender,Gini index,Israel,1992,2022,24
+Inequality & Gender,Gini index,Jordan,1992,2010,6
+Inequality & Gender,Gini index,Lebanon,2011,2022,2
+Inequality & Gender,Gini index,Morocco,1990,2013,5
+Inequality & Gender,Gini index,Qatar,2017,2017,1
+Inequality & Gender,Gini index,Syrian Arab Republic,1996,2022,5
+Inequality & Gender,Gini index,Tunisia,1990,2021,7
+Inequality & Gender,Gini index,Turkiye,1994,2023,23
+Inequality & Gender,Gini index,United Arab Emirates,2013,2018,2
+Inequality & Gender,Gini index,West Bank and Gaza,2004,2023,9
+Inequality & Gender,Gini index,"Yemen, Rep.",1998,2014,3
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Algeria,2012,2023,12
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Djibouti,2012,2023,12
+Inequality & Gender,Inequality-adjusted HDI (IHDI),"Egypt, Arab Rep.",2010,2023,14
+Inequality & Gender,Inequality-adjusted HDI (IHDI),"Iran, Islamic Rep.",2010,2023,14
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Iraq,2011,2023,13
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Israel,2010,2023,14
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Jordan,2010,2023,14
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Morocco,2010,2023,14
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Oman,2011,2023,13
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Syrian Arab Republic,2010,2015,6
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Tunisia,2011,2023,13
+Inequality & Gender,Inequality-adjusted HDI (IHDI),Turkiye,2010,2023,14
+Inequality & Gender,Inequality-adjusted HDI (IHDI),United Arab Emirates,2016,2023,8
+Inequality & Gender,Inequality-adjusted HDI (IHDI),West Bank and Gaza,2010,2023,14
+Inequality & Gender,Inequality-adjusted HDI (IHDI),"Yemen, Rep.",2010,2023,14
+Inequality & Gender,UNDP female labor force participation (%),Algeria,1995,2023,29
+Inequality & Gender,UNDP female labor force participation (%),Bahrain,1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),Djibouti,2015,2023,9
+Inequality & Gender,UNDP female labor force participation (%),"Egypt, Arab Rep.",1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),"Iran, Islamic Rep.",1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),Iraq,1995,2023,29
+Inequality & Gender,UNDP female labor force participation (%),Israel,1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),Jordan,2000,2023,24
+Inequality & Gender,UNDP female labor force participation (%),Kuwait,1995,2023,29
+Inequality & Gender,UNDP female labor force participation (%),Lebanon,2004,2023,20
+Inequality & Gender,UNDP female labor force participation (%),Libya,2010,2023,14
+Inequality & Gender,UNDP female labor force participation (%),Morocco,1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),Oman,2000,2023,24
+Inequality & Gender,UNDP female labor force participation (%),Qatar,1995,2023,29
+Inequality & Gender,UNDP female labor force participation (%),Saudi Arabia,1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),Syrian Arab Republic,1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),Tunisia,1994,2023,30
+Inequality & Gender,UNDP female labor force participation (%),Turkiye,1990,2023,34
+Inequality & Gender,UNDP female labor force participation (%),United Arab Emirates,1995,2023,29
+Inequality & Gender,UNDP female labor force participation (%),West Bank and Gaza,2000,2023,24
+Inequality & Gender,UNDP female labor force participation (%),"Yemen, Rep.",1994,2023,30
+Political,Freedom House: Civil Liberties (0-60),Algeria,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Bahrain,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Djibouti,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),"Egypt, Arab Rep.",2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),"Iran, Islamic Rep.",2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Iraq,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Israel,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Jordan,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Kuwait,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Lebanon,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Libya,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Morocco,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Oman,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Qatar,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Saudi Arabia,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Syrian Arab Republic,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Tunisia,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),Turkiye,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),United Arab Emirates,2003,2025,23
+Political,Freedom House: Civil Liberties (0-60),"Yemen, Rep.",2003,2025,23
+Political,Freedom House: Political Rights (0-40),Algeria,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Bahrain,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Djibouti,2002,2025,24
+Political,Freedom House: Political Rights (0-40),"Egypt, Arab Rep.",2002,2025,24
+Political,Freedom House: Political Rights (0-40),"Iran, Islamic Rep.",2002,2025,24
+Political,Freedom House: Political Rights (0-40),Iraq,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Israel,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Jordan,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Kuwait,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Lebanon,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Libya,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Morocco,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Oman,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Qatar,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Saudi Arabia,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Syrian Arab Republic,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Tunisia,2002,2025,24
+Political,Freedom House: Political Rights (0-40),Turkiye,2002,2025,24
+Political,Freedom House: Political Rights (0-40),United Arab Emirates,2002,2025,24
+Political,Freedom House: Political Rights (0-40),"Yemen, Rep.",2002,2025,24
+Political,V-Dem Electoral Democracy Index (0-1),Algeria,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Bahrain,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Djibouti,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),"Egypt, Arab Rep.",1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),"Iran, Islamic Rep.",1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Iraq,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Israel,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Jordan,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Kuwait,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Lebanon,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Libya,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Morocco,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Oman,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Qatar,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Saudi Arabia,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Syrian Arab Republic,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Tunisia,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),Turkiye,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),United Arab Emirates,1990,2025,36
+Political,V-Dem Electoral Democracy Index (0-1),"Yemen, Rep.",1991,2025,35
+Political,WGI: Control of Corruption,Algeria,1996,2025,27
+Political,WGI: Control of Corruption,Bahrain,1996,2025,27
+Political,WGI: Control of Corruption,Djibouti,1996,2025,27
+Political,WGI: Control of Corruption,"Egypt, Arab Rep.",1996,2025,27
+Political,WGI: Control of Corruption,"Iran, Islamic Rep.",1996,2025,27
+Political,WGI: Control of Corruption,Iraq,1996,2025,27
+Political,WGI: Control of Corruption,Israel,1996,2025,27
+Political,WGI: Control of Corruption,Jordan,1996,2025,27
+Political,WGI: Control of Corruption,Kuwait,1996,2025,27
+Political,WGI: Control of Corruption,Lebanon,1996,2025,27
+Political,WGI: Control of Corruption,Libya,1996,2025,27
+Political,WGI: Control of Corruption,Morocco,1996,2025,27
+Political,WGI: Control of Corruption,Oman,1996,2025,27
+Political,WGI: Control of Corruption,Qatar,1996,2025,27
+Political,WGI: Control of Corruption,Saudi Arabia,1996,2025,27
+Political,WGI: Control of Corruption,Syrian Arab Republic,1996,2025,27
+Political,WGI: Control of Corruption,Tunisia,1996,2025,27
+Political,WGI: Control of Corruption,Turkiye,1996,2025,27
+Political,WGI: Control of Corruption,United Arab Emirates,1996,2025,27
+Political,WGI: Control of Corruption,West Bank and Gaza,1996,2025,27
+Political,WGI: Control of Corruption,"Yemen, Rep.",1996,2025,27
+Political,WGI: Government Effectiveness,Algeria,1996,2025,27
+Political,WGI: Government Effectiveness,Bahrain,1996,2025,27
+Political,WGI: Government Effectiveness,Djibouti,1996,2025,27
+Political,WGI: Government Effectiveness,"Egypt, Arab Rep.",1996,2025,27
+Political,WGI: Government Effectiveness,"Iran, Islamic Rep.",1996,2025,27
+Political,WGI: Government Effectiveness,Iraq,1996,2025,27
+Political,WGI: Government Effectiveness,Israel,1996,2025,27
+Political,WGI: Government Effectiveness,Jordan,1996,2025,27
+Political,WGI: Government Effectiveness,Kuwait,1996,2025,27
+Political,WGI: Government Effectiveness,Lebanon,1996,2025,27
+Political,WGI: Government Effectiveness,Libya,1996,2025,27
+Political,WGI: Government Effectiveness,Morocco,1996,2025,27
+Political,WGI: Government Effectiveness,Oman,1996,2025,27
+Political,WGI: Government Effectiveness,Qatar,1996,2025,27
+Political,WGI: Government Effectiveness,Saudi Arabia,1996,2025,27
+Political,WGI: Government Effectiveness,Syrian Arab Republic,1996,2025,27
+Political,WGI: Government Effectiveness,Tunisia,1996,2025,27
+Political,WGI: Government Effectiveness,Turkiye,1996,2025,27
+Political,WGI: Government Effectiveness,United Arab Emirates,1996,2025,27
+Political,WGI: Government Effectiveness,West Bank and Gaza,1996,2025,27
+Political,WGI: Government Effectiveness,"Yemen, Rep.",1996,2025,27
+Political,WGI: Political Stability / No Violence,Algeria,1996,2025,27
+Political,WGI: Political Stability / No Violence,Bahrain,1996,2025,27
+Political,WGI: Political Stability / No Violence,Djibouti,1996,2025,27
+Political,WGI: Political Stability / No Violence,"Egypt, Arab Rep.",1996,2025,27
+Political,WGI: Political Stability / No Violence,"Iran, Islamic Rep.",1996,2025,27
+Political,WGI: Political Stability / No Violence,Iraq,1996,2025,27
+Political,WGI: Political Stability / No Violence,Israel,1996,2025,27
+Political,WGI: Political Stability / No Violence,Jordan,1996,2025,27
+Political,WGI: Political Stability / No Violence,Kuwait,1996,2025,27
+Political,WGI: Political Stability / No Violence,Lebanon,1996,2025,27
+Political,WGI: Political Stability / No Violence,Libya,1996,2025,27
+Political,WGI: Political Stability / No Violence,Morocco,1996,2025,27
+Political,WGI: Political Stability / No Violence,Oman,1996,2025,27
+Political,WGI: Political Stability / No Violence,Qatar,1996,2025,27
+Political,WGI: Political Stability / No Violence,Saudi Arabia,1996,2025,27
+Political,WGI: Political Stability / No Violence,Syrian Arab Republic,1996,2025,27
+Political,WGI: Political Stability / No Violence,Tunisia,1996,2025,27
+Political,WGI: Political Stability / No Violence,Turkiye,1996,2025,27
+Political,WGI: Political Stability / No Violence,United Arab Emirates,1996,2025,27
+Political,WGI: Political Stability / No Violence,West Bank and Gaza,1996,2025,27
+Political,WGI: Political Stability / No Violence,"Yemen, Rep.",1996,2025,27
+Political,WGI: Regulatory Quality,Algeria,1996,2025,27
+Political,WGI: Regulatory Quality,Bahrain,1996,2025,27
+Political,WGI: Regulatory Quality,Djibouti,1996,2025,27
+Political,WGI: Regulatory Quality,"Egypt, Arab Rep.",1996,2025,27
+Political,WGI: Regulatory Quality,"Iran, Islamic Rep.",1996,2025,27
+Political,WGI: Regulatory Quality,Iraq,1996,2025,27
+Political,WGI: Regulatory Quality,Israel,1996,2025,27
+Political,WGI: Regulatory Quality,Jordan,1996,2025,27
+Political,WGI: Regulatory Quality,Kuwait,1996,2025,27
+Political,WGI: Regulatory Quality,Lebanon,1996,2025,27
+Political,WGI: Regulatory Quality,Libya,1996,2025,27
+Political,WGI: Regulatory Quality,Morocco,1996,2025,27
+Political,WGI: Regulatory Quality,Oman,1996,2025,27
+Political,WGI: Regulatory Quality,Qatar,1996,2025,27
+Political,WGI: Regulatory Quality,Saudi Arabia,1996,2025,27
+Political,WGI: Regulatory Quality,Syrian Arab Republic,1996,2025,27
+Political,WGI: Regulatory Quality,Tunisia,1996,2025,27
+Political,WGI: Regulatory Quality,Turkiye,1996,2025,27
+Political,WGI: Regulatory Quality,United Arab Emirates,1996,2025,27
+Political,WGI: Regulatory Quality,West Bank and Gaza,1996,2025,27
+Political,WGI: Regulatory Quality,"Yemen, Rep.",1996,2025,27
+Political,WGI: Rule of Law,Algeria,1996,2025,27
+Political,WGI: Rule of Law,Bahrain,1996,2025,27
+Political,WGI: Rule of Law,Djibouti,1996,2025,27
+Political,WGI: Rule of Law,"Egypt, Arab Rep.",1996,2025,27
+Political,WGI: Rule of Law,"Iran, Islamic Rep.",1996,2025,27
+Political,WGI: Rule of Law,Iraq,1996,2025,27
+Political,WGI: Rule of Law,Israel,1996,2025,27
+Political,WGI: Rule of Law,Jordan,1996,2025,27
+Political,WGI: Rule of Law,Kuwait,1996,2025,27
+Political,WGI: Rule of Law,Lebanon,1996,2025,27
+Political,WGI: Rule of Law,Libya,1996,2025,27
+Political,WGI: Rule of Law,Morocco,1996,2025,27
+Political,WGI: Rule of Law,Oman,1996,2025,27
+Political,WGI: Rule of Law,Qatar,1996,2025,27
+Political,WGI: Rule of Law,Saudi Arabia,1996,2025,27
+Political,WGI: Rule of Law,Syrian Arab Republic,1996,2025,27
+Political,WGI: Rule of Law,Tunisia,1996,2025,27
+Political,WGI: Rule of Law,Turkiye,1996,2025,27
+Political,WGI: Rule of Law,United Arab Emirates,1996,2025,27
+Political,WGI: Rule of Law,West Bank and Gaza,1996,2025,27
+Political,WGI: Rule of Law,"Yemen, Rep.",1996,2025,27
+Political,WGI: Voice and Accountability,Algeria,1996,2025,27
+Political,WGI: Voice and Accountability,Bahrain,1996,2025,27
+Political,WGI: Voice and Accountability,Djibouti,1996,2025,27
+Political,WGI: Voice and Accountability,"Egypt, Arab Rep.",1996,2025,27
+Political,WGI: Voice and Accountability,"Iran, Islamic Rep.",1996,2025,27
+Political,WGI: Voice and Accountability,Iraq,1996,2025,27
+Political,WGI: Voice and Accountability,Israel,1996,2025,27
+Political,WGI: Voice and Accountability,Jordan,1996,2025,27
+Political,WGI: Voice and Accountability,Kuwait,1996,2025,27
+Political,WGI: Voice and Accountability,Lebanon,1996,2025,27
+Political,WGI: Voice and Accountability,Libya,1996,2025,27
+Political,WGI: Voice and Accountability,Morocco,1996,2025,27
+Political,WGI: Voice and Accountability,Oman,1996,2025,27
+Political,WGI: Voice and Accountability,Qatar,1996,2025,27
+Political,WGI: Voice and Accountability,Saudi Arabia,1996,2025,27
+Political,WGI: Voice and Accountability,Syrian Arab Republic,1996,2025,27
+Political,WGI: Voice and Accountability,Tunisia,1996,2025,27
+Political,WGI: Voice and Accountability,Turkiye,1996,2025,27
+Political,WGI: Voice and Accountability,United Arab Emirates,1996,2025,27
+Political,WGI: Voice and Accountability,West Bank and Gaza,1996,2025,27
+Political,WGI: Voice and Accountability,"Yemen, Rep.",1996,2025,27
+Security,Military expenditure (% of GDP),Algeria,1990,2025,36
+Security,Military expenditure (% of GDP),Bahrain,1990,2025,36
+Security,Military expenditure (% of GDP),Djibouti,1991,2008,15
+Security,Military expenditure (% of GDP),"Egypt, Arab Rep.",1990,2025,36
+Security,Military expenditure (% of GDP),"Iran, Islamic Rep.",1990,2025,36
+Security,Military expenditure (% of GDP),Iraq,2004,2025,22
+Security,Military expenditure (% of GDP),Israel,1990,2025,36
+Security,Military expenditure (% of GDP),Jordan,1990,2025,36
+Security,Military expenditure (% of GDP),Kuwait,1990,2025,36
+Security,Military expenditure (% of GDP),Lebanon,1990,2025,36
+Security,Military expenditure (% of GDP),Libya,1997,2023,17
+Security,Military expenditure (% of GDP),Morocco,1990,2025,36
+Security,Military expenditure (% of GDP),Oman,1990,2025,36
+Security,Military expenditure (% of GDP),Qatar,1990,2022,13
+Security,Military expenditure (% of GDP),Saudi Arabia,1990,2025,36
+Security,Military expenditure (% of GDP),Syrian Arab Republic,1990,2010,21
+Security,Military expenditure (% of GDP),Tunisia,1990,2025,36
+Security,Military expenditure (% of GDP),Turkiye,1990,2025,36
+Security,Military expenditure (% of GDP),United Arab Emirates,1997,2014,18
+Security,Military expenditure (% of GDP),"Yemen, Rep.",1990,2014,25
